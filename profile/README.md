@@ -1,7 +1,5 @@
 # MG Tech – Sites & Sistemas
 
-**Tirando ideias do papel com tecnologia sob medida**
-
 ## 📌 Sobre a MG Tech
 
 A **MG Tech** é uma empresa de tecnologia focada em **criar sites e sistemas web personalizados**, com design moderno, boa performance e soluções que realmente fazem sentido para o seu negócio.
