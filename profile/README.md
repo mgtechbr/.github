@@ -1,37 +1,32 @@
-# MG Tech – Sites & Sistemas
+# MG Tech
 
-## 📌 Sobre a MG Tech
+**Sites. Sistemas. Resultado.**
 
-A **MG Tech** é uma empresa de tecnologia focada em **criar sites e sistemas web personalizados**, com design moderno, boa performance e soluções que realmente fazem sentido para o seu negócio.
+Desenvolvemos produtos digitais sob medida para empresas que levam tecnologia a sério.
+Do escopo à entrega.
 
-Hoje contamos com um time de **desenvolvedores com experiência de mercado**, prontos pra colocar projetos em prática, resolver problemas e transformar ideias em realidade.
+---
 
-Se você tem uma ideia e não sabe por onde começar, a gente te ajuda do zero — desde o planejamento até a entrega final.  
+### /// O que fazemos
+
+```
+(001)  CRM Comercial          Gestão de leads, orçamentos e pipeline comercial.
+(002)  Sites & Landing Pages  Design moderno, performance máxima, do zero ao ar.
+(003)  Automação WhatsApp     Bot com IA, menus inteligentes, atendimento 24h.
+(004)  Automação de Processos Integrações, fluxos automatizados, menos retrabalho.
+(005)  Sistemas Sob Demanda   Software personalizado para o problema do seu negócio.
+```
+
+---
+
+### /// Stack
+
+Next.js · TailwindCSS · Node.js · GSAP · PostgreSQL · APIs REST
+
+---
+
+### /// Contato
 
 🌐 [mgtechbr.com](https://mgtechbr.com)
-
-## 🛠️ Como trabalhamos
-
-1. **Você tem uma ideia ou necessidade**
-2. A gente escuta, entende e propõe um caminho
-3. Planejamos o escopo e o visual
-4. Desenvolvemos com feedbacks constantes
-5. Entregamos funcionando e com suporte real  
-
-Nada de promessas mirabolantes. A gente entrega o que combina com você e seu negócio.
-
-## 💼 Projetos que já fizemos
-
-Já entregamos sites e sistemas para empresas de vários setores.  
-Quer ver alguns exemplos? Dá uma olhada em:  
-🔗 [mgtechbr.com/projetos](https://mgtechbr.com/projetos)
-
-## 📬 Fale com a gente
-
-Quer conversar sobre um projeto ou pedir um orçamento?  
-Chama a gente pelos canais abaixo:
-
-- 💌 **contato@mgtechbr.com**  
-- 🌐 [mgtechbr.com/contato](https://mgtechbr.com/contato)  
-- 📍 Joinville/SC — atendimento para todo o Brasil (foco em Joinville)
-
+&nbsp;&nbsp;&nbsp;contato@mgtechbr.com
+&nbsp;&nbsp;&nbsp;Joinville / SC | atendimento para todo o Brasil
